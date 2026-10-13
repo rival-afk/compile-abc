@@ -1,0 +1,13 @@
+# credentials - never commit
+git.key
+
+# upstream distribution used to bootstrap the dev oracle
+PascalABCNET-Console-net10.zip
+pabc/
+
+# build outputs
+/abc
+*.exe
+*.o
+*.a
+*.out
